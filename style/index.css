@@ -383,3 +383,26 @@ footer nav a {
     color: white;
     text-decoration: none;
 }
+
+
+.boxes{
+    border: 2x solid red;
+    
+}
+
+
+@media (max-width: 500px) {
+    
+    .container {
+    width: 70%;
+    height: auto;
+    }
+    .boxes {
+        width: 100%;
+        display: flex;
+        align-items: center;
+        flex-direction: column;
+    }
+    
+}
+
