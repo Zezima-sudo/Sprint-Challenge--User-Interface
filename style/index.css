@@ -369,8 +369,6 @@ p {
 }
 
 footer {
-    margin-left: 60px;
-
     width: 100%;
     background: black;
 }
@@ -392,7 +390,7 @@ footer nav a {
 
 
 
-}
+
 
 
 
@@ -421,7 +419,6 @@ footer nav a {
         font-size: 1.2rem;
         display: flex;
         flex-direction: column;
-        border: 2px solid red;
         align-items: center;
     }
 
