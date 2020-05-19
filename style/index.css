@@ -407,12 +407,7 @@ footer nav a {
         flex-wrap: wrap;
 }
 
-    html, body {
-        overflow-x: hidden;
-    }
-    body {
-        position: relative
-    }
+
 
     .top-content {
         
